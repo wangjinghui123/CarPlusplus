@@ -1,0 +1,19 @@
+------------------------------------------------------
+Version History
+------------------------------------------------------
+
+------------------------------------------------------
+3.0
+------------------------------------------------------
+Brand spanking new!
+
+What's New?
+New Camera Path System - Everything is separated so you can freely add orienations or speed events at any point on the path
+Brand new GUI system written making it easier to create your animation
+New control point system - You can now split control points for more control over the curves
+Interpolation options - Hermite, Smooth Step, Linear and Not Interpolated join Bezier interpolation for curve calculations
+Event Points - Specify events that either broadcast C# events or call a monobehaviour method (Send Message)
+Speed Points - You can now control the speed of your animtion within Camera Path natively
+Ease Curves - You can now edit custom ease curves
+Camera Path linking - you can link two camera paths and now interpolate between them like a single path.
+Camera Path automatically registers if you're animating a camera or another GameObject and changes behaviour accordingly

@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 2284b3baf855ade4b878b3e4c4999adf
+labels:
+- Animation
+- Animator
+- Animate
+- Anim
+- Animating
+- Cutscene
+- Cinematic
+- Loop
+- FieldofView
+- Hermite
+- Bezier
+- Spline
+- Path
+- Director
+- Cam
+- Camera
+- GodofWar
+- Rails
+- Shooter
+- OnRails
+- FlyOver
+- FlyBy
+- FlyThrough
+- Architectural
+- Architecture
+- Animatic
+- Movie
+timeCreated: 18446744011573954816
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
