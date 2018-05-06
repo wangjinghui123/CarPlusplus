@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 908898580, guid: fb48e3a42295a4bf29460478c563720f, type: 3}
+  m_Name: -4773698
+  m_EditorClassIdentifier: 
+  value: -1.49529095e-16
+  time: 3
+  inTangent: 9.40640345e-17
+  outTangent: 9.40640345e-17
+  brokenTangents: 0
+  curve: {fileID: 11400000, guid: 34e3bd32866f9ec40b5bab6dc61b8868, type: 2}

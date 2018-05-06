@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -647153372, guid: fb48e3a42295a4bf29460478c563720f, type: 3}
+  m_Name: 9378
+  m_EditorClassIdentifier: 
+  propertyType: 8
+  component: {fileID: 0}
+  componentType: Transform
+  propertyName: localRotation
+  fieldName: 
+  curves:
+  - {fileID: 11400000, guid: a273c47852f8f48d79caa697eacaeb5c, type: 2}
+  - {fileID: 11400000, guid: bff49aa30a780440d90f1470681360cf, type: 2}
+  - {fileID: 11400000, guid: 7703b5b3700bb4c24899492bfcc4d692, type: 2}
+  - {fileID: 11400000, guid: 2fd7133b8c80c4a22b573f9875f185ad, type: 2}
+  curves0:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  curves1:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  curves2:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  curves3:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  baseInt: 0
+  baseFloat: 0
+  baseDouble: 0
+  baseBool: 0
+  baseVector2: {x: 0, y: 0}
+  baseVector3: {x: 0, y: 0, z: 0}
+  baseVector4: {x: 0, y: 0, z: 0, w: 0}
+  baseQuat: {x: .12961188, y: -.291390479, z: .120977141, w: .940030336}
+  baseColour: {r: 0, g: 0, b: 0, a: 1}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1282336031, guid: fb48e3a42295a4bf29460478c563720f, type: 3}
+  m_Name: -412574
+  m_EditorClassIdentifier: 
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: -1.1543591
+      inSlope: .0173379779
+      outSlope: .0173379779
+      tangentMode: 0
+    - time: 8
+      value: -1.01565528
+      inSlope: .0173379779
+      outSlope: .0173379779
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  internalKeyframes:
+  - {fileID: 11400000, guid: 7626c93b28ae30c4590fef100e679f96, type: 2}
+  - {fileID: 11400000, guid: acbfd39c49530c343a2bc461138664bb, type: 2}
+  duration: 8

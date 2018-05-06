@@ -1,0 +1,133 @@
+{
+	"二级菜单": {
+		"Key": "二级菜单",
+		"Infos": [
+			{
+				"Key": 1,
+				"ItemFrom": 1,
+				"Name": null,
+				"ItemName": 1,
+				"SpriteName": "btn_blue_Color01"
+			},
+			{
+				"Key": 2,
+				"ItemFrom": 1,
+				"Name": null,
+				"ItemName": 2,
+				"SpriteName": "btn_gray2_Color02"
+			},
+			{
+				"Key": 3,
+				"ItemFrom": 1,
+				"Name": null,
+				"ItemName": 3,
+				"SpriteName": "btn_white_Color03"
+			},
+			{
+				"Key": 4,
+				"ItemFrom": 1,
+				"Name": null,
+				"ItemName": 4,
+				"SpriteName": "btn_red_Color04"
+			},
+			{
+				"Key": 5,
+				"ItemFrom": 1,
+				"Name": null,
+				"ItemName": 5,
+				"SpriteName": "btn_black_Color05"
+			},
+			{
+				"Key": 6,
+				"ItemFrom": 1,
+				"Name": null,
+				"ItemName": 6,
+				"SpriteName": "btn_yellow_Color06"
+			},
+			{
+				"Key": 7,
+				"ItemFrom": 1,
+				"Name": null,
+				"ItemName": 7,
+				"SpriteName": "btn_gary1_Color07"
+			},
+			{
+				"Key": 8,
+				"ItemFrom": 1,
+				"Name": null,
+				"ItemName": 8,
+				"SpriteName": "btn_regb_Color08"
+			},
+			{
+				"Key": 9,
+				"ItemFrom": 2,
+				"Name": null,
+				"ItemName": 1,
+				"SpriteName": "btn_black_Color05"
+			},
+			{
+				"Key": 10,
+				"ItemFrom": 2,
+				"Name": null,
+				"ItemName": 2,
+				"SpriteName": "btn_gray2_Color02"
+			},
+			{
+				"Key": 11,
+				"ItemFrom": 2,
+				"Name": null,
+				"ItemName": 3,
+				"SpriteName": "btn_blue_Color01"
+			},
+			{
+				"Key": 12,
+				"ItemFrom": 2,
+				"Name": null,
+				"ItemName": 4,
+				"SpriteName": "btn_regb_Color08"
+			},
+			{
+				"Key": 13,
+				"ItemFrom": 2,
+				"Name": null,
+				"ItemName": 5,
+				"SpriteName": "btn_white_Color03"
+			},
+			{
+				"Key": 14,
+				"ItemFrom": 3,
+				"Name": null,
+				"ItemName": 1,
+				"SpriteName": "btn_hdr1"
+			},
+			{
+				"Key": 15,
+				"ItemFrom": 3,
+				"Name": null,
+				"ItemName": 2,
+				"SpriteName": "btn_hdr2"
+			},
+			{
+				"Key": 16,
+				"ItemFrom": 3,
+				"Name": null,
+				"ItemName": 3,
+				"SpriteName": "btn_hdr3"
+			},
+			{
+				"Key": 17,
+				"ItemFrom": 3,
+				"Name": null,
+				"ItemName": 4,
+				"SpriteName": "btn_hdr4"
+			},
+			{
+				"Key": 18,
+				"ItemFrom": 3,
+				"Name": null,
+				"ItemName": 5,
+				"SpriteName": "btn_hdr5"
+			}
+		]
+	}
+}

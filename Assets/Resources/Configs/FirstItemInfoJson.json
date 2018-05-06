@@ -1,0 +1,22 @@
+{
+	"1": {
+		"Key": 1,
+		"Infos": [
+			{
+				"Key": 1,
+				"ItemName": "一",
+				"SpriteName": "btn_color"
+			},
+			{
+				"Key": 2,
+				"ItemName": "二",
+				"SpriteName": "btn_wheel"
+			},
+			{
+				"Key": 3,
+				"ItemName": "三",
+				"SpriteName": "btn_hdr"
+			}
+		]
+	}
+}

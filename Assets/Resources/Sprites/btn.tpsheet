@@ -1,0 +1,38 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4046ebd8b7707bd62b232f3b55237594:6afec3b28036b602d5687ba2b7af90d4:b34a4a309000117509cc1ea2cc1a0702$
+#
+:format=40300
+:texture=btn.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=disabled
+
+btn_black_Color;1;1474;271;271; 0.5;0.5; 0;0;0;0
+btn_black_Wheel;1;1474;271;271; 0.5;0.5; 0;0;0;0
+btn_blue_Color;274;1474;271;271; 0.5;0.5; 0;0;0;0
+btn_blue_Wheel;274;1474;271;271; 0.5;0.5; 0;0;0;0
+btn_color;1;1747;300;300; 0.5;0.5; 0;0;0;0
+btn_gary1_Color;547;1474;271;271; 0.5;0.5; 0;0;0;0
+btn_gary1_Wheel;547;1474;271;271; 0.5;0.5; 0;0;0;0
+btn_gray2_Color;1;1201;271;271; 0.5;0.5; 0;0;0;0
+btn_gray2_Wheel;1;1201;271;271; 0.5;0.5; 0;0;0;0
+btn_hdr;303;1747;300;300; 0.5;0.5; 0;0;0;0
+btn_hdr1;274;1201;271;271; 0.5;0.5; 0;0;0;0
+btn_hdr2;547;1201;271;271; 0.5;0.5; 0;0;0;0
+btn_hdr3;1;928;271;271; 0.5;0.5; 0;0;0;0
+btn_hdr4;274;928;271;271; 0.5;0.5; 0;0;0;0
+btn_hdr5;547;928;271;271; 0.5;0.5; 0;0;0;0
+btn_red_Color;1;655;271;271; 0.5;0.5; 0;0;0;0
+btn_red_Wheel;1;655;271;271; 0.5;0.5; 0;0;0;0
+btn_regb_Color;1;382;271;271; 0.5;0.5; 0;0;0;0
+btn_regb_Wheel;1;382;271;271; 0.5;0.5; 0;0;0;0
+btn_wheel;605;1747;300;300; 0.5;0.5; 0;0;0;0
+btn_white_Color;1;109;271;271; 0.5;0.5; 0;0;0;0
+btn_white_Wheel;1;109;271;271; 0.5;0.5; 0;0;0;0
+btn_yellow_Color;274;655;271;271; 0.5;0.5; 0;0;0;0
+btn_yellow_Wheel;274;655;271;271; 0.5;0.5; 0;0;0;0
